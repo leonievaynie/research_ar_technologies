@@ -5,6 +5,7 @@ class HomeView extends Component {
         return (
             <>
                 <h2>Welcome to the research!</h2>
+                <h2>say something</h2>
                 <ul>
                     <li><a href="/three-js">Three.js</a>
                     </li>
